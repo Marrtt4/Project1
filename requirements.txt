@@ -1,0 +1,8 @@
+flask
+numpy
+pillow
+torch
+torch-directml
+diffusers
+transformers
+safetensors
